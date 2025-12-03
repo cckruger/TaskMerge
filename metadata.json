@@ -1,0 +1,5 @@
+{
+  "name": "TaskMerge",
+  "description": "A smart task management dashboard that unifies multiple accounts. Features Gemini-powered natural language task entry, automatic sorting, and subtask breakdown.",
+  "requestFramePermissions": []
+}
